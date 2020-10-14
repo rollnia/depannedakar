@@ -1,0 +1,7 @@
+{
+  "name": "depannedakar",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
